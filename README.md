@@ -42,29 +42,29 @@ The application is a local, command-line and file-driven backend system.
 
 ```text
 T104-PS-086/
-â”œâ”€â”€ data/
-â”‚   â”œâ”€â”€ products.csv
-â”‚   â”œâ”€â”€ sources.csv
-â”‚   â”œâ”€â”€ batches.csv
-â”‚   â”œâ”€â”€ lot_size_bands.csv
-â”‚   â”œâ”€â”€ sampling_table.csv
-â”‚   â””â”€â”€ commands.txt
-â”œâ”€â”€ src/
-â”‚   â””â”€â”€ quality_engine/
-â”‚       â”œâ”€â”€ __init__.py
-â”‚       â””â”€â”€ engine.py
-â”œâ”€â”€ tests/
-â”œâ”€â”€ docs/
-â”‚   â”œâ”€â”€ design_document.md
-â”‚   â”œâ”€â”€ design_document.pdf
-â”‚   â””â”€â”€ decision_log.md
-â”œâ”€â”€ run.py
-â”œâ”€â”€ make_pdf.py
-â”œâ”€â”€ batch_decisions.csv
-â”œâ”€â”€ switching_history.csv
-â”œâ”€â”€ release_register.csv
-â”œâ”€â”€ README.md
-â””â”€â”€ .gitignore
+-------- data/
+---   --------- products.csv
+---   --------- sources.csv
+---   --------- batches.csv
+---   --------- lot_size_bands.csv
+---   ---------sampling_table.csv
+---   --------- commands.txt
+--------- src/
+---   --------- quality_engine/
+---       --------- __init__.py
+---       --------- engine.py
+--------- tests/
+--------- docs/
+---   --------- design_document.md
+---   --------- design_document.pdf
+---   --------- decision_log.md
+--------- run.py
+--------- make_pdf.py
+--------- batch_decisions.csv
+--------- switching_history.csv
+--------- release_register.csv
+--------- README.md
+--------- .gitignore
 ```
 
 ## 5. Files Included in the Sample Data Pack
