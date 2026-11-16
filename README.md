@@ -1,4 +1,4 @@
-﻿# PS-086 â€“ AQL Sampling, Inspection Severity and Batch Release Engine
+﻿# PS-086  AQL Sampling, Inspection Severity and Batch Release Engine
 
 **Team:** T104
 **Project:** AQL Sampling, Inspection Severity and Batch Release Engine
